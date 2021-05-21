@@ -140,7 +140,7 @@ a:active{
 font-size: 60px;
     text-align: center;
 }
-@media (max-width:767px){
+@media (max-width:1000px){
     header{
        display: none;
     }
@@ -164,7 +164,7 @@ font-size: 60px;
     }
    
 }
-@media (min-width:767px){
+@media (min-width:1000px){
 
     header{
         height: 100px;
